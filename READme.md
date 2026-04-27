@@ -15,3 +15,4 @@ Asistencia confirmada 13/04
 Asistencia confirmada 14/04
 Asistencia confirmada 20/04
 Asistencia confirmada 22/04
+Asistencia confirmada 27/04
